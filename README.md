@@ -92,4 +92,4 @@ Loc Radar System Riphah/
 
 ## License
 
-Academic project — Riphah International University, Department of Electrical & Computer Engineering. Not licensed for commercial use.
+Academic project — Riphah International University, Department of Software Engineering.
