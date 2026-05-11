@@ -91,8 +91,8 @@ Loc Radar System Riphah/
 ---
 ## Contributors
 
-| Name | Role |
-|------|------|
+| Name |
+|------|
 | [HananShafay](https://github.com/hananshafay72442) | School System |
 | [Mohid Ahmed](https://github.com/MohidAhmed6115) | Fee System (partial), Library System |
 | [Umair Hassan](https://github.com/umairhassan1509) | Fee System (partial) |
